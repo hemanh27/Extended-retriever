@@ -1,0 +1,306 @@
+STRUCTURE										 FREQUENCY
+
+[sig1, =N@, sig4, =N@, sig4, =N@]										2.0
+[=C@]										7.0
+[C@H, sig3, C, C]										1.0
+[=C, N, C]										1.0
+[O@, C@, C@, C@, C@, C@]										1.0
+[C, =O]										21.0
+[C, C, O, sig2, sig6]										1.0
+[C, C, C, C, C, C, C, C, O, sig2, sig6]										1.0
+[C@, sig2]										6.0
+[Cl, sig4]										1.0
+[C]										23.0
+[N@, sig2, O@, sig3, sig2]										1.0
+[O, sig4, C, =//C, sig6]										1.0
+[C@, C@, C@@H@, C@@H@, C@@, =C@]										1.0
+[C@H@, sig2, C]										1.0
+[C, sig6, sig6, sig6, sig5]										1.0
+[O, sig3, C]										1.0
+[=C, C]										1.0
+[C@, sig2, sig2, sig2, sig3]										1.0
+[C@@H@, C@@H@, C@, C@, sig2, C@H@]										2.0
+[sig2, C@, =C@, O@, C@, =C@]										1.0
+[O, C, sig6]										1.0
+[C@, C@, =C@, sig2, C@@H@, C@H@]										1.0
+[Si, sig2, sig1]										2.0
+[C@@, C]										2.0
+[C@, sig3]										3.0
+[sig6]										15.0
+[C, O, C, C, C, C, C, C, sig2, C]										2.0
+[=C@, N]										5.0
+[sig1, C@, C@, C@H@, sig2]										1.0
+[C@, N, sig2, C]										1.0
+[sig1, =C@, C@, =C@, sig2, =C@]										1.0
+[sig2, C@H@, sig2, C@@H@, C@, C@]										1.0
+[sig5, =O]										1.0
+[sig3, sig2, sig1, C@, sig1]										1.0
+[C, C, C]										1.0
+[C@, sig2, C@, C@, =C@, sig1]										1.0
+[O, sig4, N, C]										1.0
+[=C@, sig2, sig2, C@, C@, =C@]										1.0
+[=C@, sig3, C@, =C@, C@, =C@]										1.0
+[C@, =C@, sig2, sig2, C@, =C@]										1.0
+[sig2, sig2, =C@, sig3, =C@, C@]										1.0
+[C, C, C, C, C, C, O]										1.0
+[C@, sig4]										2.0
+[C@, =C@, O@, sig3, C@]										1.0
+[C@, sig3, =C@, sig2, C@, =C@]										1.0
+[sig2, =C@, C@, =C@, C@, =C@]										2.0
+[sig1, =C@, sig2, sig2, C@, =C@]										1.0
+[C, C, O, C]										1.0
+[Cl, sig6]										6.0
+[C@H@, sig2, C, O]										2.0
+[.Na+, .Na+, .Na+]										1.0
+[sig3, C, C, C, C, C, C, sig2, =O]										1.0
+[C@, sig2, C@, sig2, C@, =C@]										4.0
+[sig1, C@, =C@, sig2, =C@, C@]										1.0
+[O, C, C, C, C]										1.0
+[=C, O, C, C]										1.0
+[sig1, C@, sig2, sig2, C@, C@]										1.0
+[sig1, sig2, =C@, C@, =C@, sig3]										1.0
+[C@, =C@, C@, =C@, C@, sig2, sig6]										1.0
+[O, sig6, sig6, sig6]										6.0
+[sig1, sig2, sig5, sig1, sig3]										1.0
+[sig1, sig2, sig3, sig1, sig3]										1.0
+[C, C, sig14, C, C, C, C]										1.0
+[C@, sig5]										5.0
+[C, sig2, sig6]										3.0
+[C@, =C@, sig2, C@, =C@, O@]										1.0
+[C@@@]										6.0
+[C@, =C@, C@, =C@, C@, =C@]										7.0
+[N, sig6]										1.0
+[C@@@, =C@, sig2, sig2, C@, =C@]										2.0
+[sig1, =C@, C@, sig3, C@, =C@]										7.0
+[C@, =C@, sig2, C@, C@, O@]										1.0
+[Cl, sig5]										2.0
+[C, sig6, sig6]										2.0
+[C@, C@, sig2, C@, C@H@, sig2]										1.0
+[C@H@]										6.0
+[sig2, C@, =C@, C@, =C@, C@]										1.0
+[N@, sig4, =C@, N@, C@, =C@]										1.0
+[N, C, C, sig6]										1.0
+[C@@@, sig1]										4.0
+[C, sig2, sig3, C, C, sig2, sig5, sig6, sig6, sig6]										1.0
+[sig1, sig2, C@, C@, C@@H@]										1.0
+[sig10, =O]										1.0
+[C@, sig2, N@, sig2, C@, C@]										1.0
+[Cl, sig5, sig5]										2.0
+[C@, sig6]										1.0
+[C@@, F]										1.0
+[C, O, C, sig2, C]										2.0
+[=C@, C, =//C, C]										1.0
+[Cl]										23.0
+[sig1, =C@, C@, sig2, C@, =C@]										10.0
+[C@, sig2, O, C, C, C, C]										1.0
+[O, =C, C, C, C, C, C, C]										1.0
+[sig2, C, C]										1.0
+[C@H@, C, O]										1.0
+[sig6, sig6]										1.0
+[=O]										12.0
+[sig1, sig2, =C@, C@, =C@, C@]										1.0
+[sig1, O@, sig1, C@, C@, C@]										1.0
+[sig4, sig6]										1.0
+[C@@H@, Cl]										3.0
+[sig3, sig6]										5.0
+[C@@, sig6]										3.0
+[C@, =C@, sig2, C@, sig2, =C@]										1.0
+[sig1, sig1, sig2, sig2]										1.0
+[C, O]										3.0
+[=C@, C, N, sig6]										1.0
+[sig1, C@, C@, sig2, C@, =C@]										1.0
+[=C@, O, C, sig2, O]										2.0
+[sig1, sig5, C@, sig2, sig2, =C@]										1.0
+[C@, C@, O@, C@, C@, O@, C@, C@, O@, C@, =C@, O@, C@, C@, O@, C@, C@, O@]										1.0
+[sig1, sig3, sig2, sig2, sig3, O@]										1.0
+[C, sig1, sig1, sig1]										1.0
+[sig2, sig2, C@, C@@H@, sig2]										1.0
+[=C@, sig2, O, C, C]										1.0
+[C@H, C]										1.0
+[sig2, =C@, sig3, sig2, C@, =C@]										1.0
+[=C@, sig2, C@, sig2, C@, C@]										1.0
+[sig1, C@H@, C@, C@, sig4]										2.0
+[=C@, sig2, O, C, C, C, C]										1.0
+[=C@, sig2, O, C]										1.0
+[sig1, C@, C@, sig1, sig2]										1.0
+[C@, =C@, C@, sig7, sig7, =C@]										1.0
+[C, sig6]										5.0
+[=C@, =O, C]										1.0
+[sig1, C@, =C@, O@, C@H@, C@]										1.0
+[H, sig6]										1.0
+[C@, C@, C@, sig3, C@@H@, C@@H@]										4.0
+[C@@H@, C@H@, C@, C@, C@H@, sig1]										1.0
+[C@, sig5, sig1]										1.0
+[C@H@, Cl]										2.0
+[sig3, sig3, C]										1.0
+[sig6, sig18, sig6]										1.0
+[C, sig5, sig1]										1.0
+[sig1, sig5, O@, sig3, sig2, sig2]										1.0
+[C@, sig2, sig2, C@@H@, C@@H@, sig2]										1.0
+[sig3, C, =//C, sig6]										1.0
+[C, C, C, C]										1.0
+[sig2, sig2, sig3, C@, C@]										1.0
+[N, sig2, C]										1.0
+[C, sig2, sig1]										2.0
+[C@, C@, C@@H@, C@@H@, sig2, C@@H@]										1.0
+[sig2, =C@, C@, C@, sig2, C@@H@]										1.0
+[sig1, C@H@, C@, C@, sig3]										1.0
+[C@, N, C, C]										3.0
+[O, =C, sig5]										1.0
+[C@@@, sig1, sig6]										4.0
+[C@@H@, C, O]										1.0
+[C@, C@, =C@, C@, =C@, C@]										3.0
+[Cl, sig3, Cl]										4.0
+[=C@, sig3, O-]										2.0
+[C@, C, C, sig2, C@H, sig2, C, C, C, sig2, C]										1.0
+[sig2, sig4, C@, =C@, C@, =C@]										1.0
+[sig1, sig5, sig2, sig2, sig2, C@, =C@]										1.0
+[sig2, sig3, C@, =C@, C@, =C@]										2.0
+[C@, Cl]										19.0
+[C@@H@, O]										5.0
+[C@, =C, C]										1.0
+[C@@H@, C@@H@, sig2, C@, sig2, C@H@]										2.0
+[sig1, C@H@, C@, C@, sig2]										1.0
+[sig1, sig5, C@, =C@, sig2, =C@]										1.0
+[C, =//C, C, =C, sig6]										1.0
+[C@, =O]										20.0
+[C@, C@, sig2, sig2, sig1]										2.0
+[C@@H, C, C, sig2, =O]										1.0
+[sig2, C, Cl]										1.0
+[C@, C@, C@, C@, C@]										3.0
+[C@, =C@, C@, C@, C@]										2.0
+[=C]										5.0
+[C@, =C@, C@, =C@, C@, sig5]										1.0
+[C@H@, O]										9.0
+[sig1, C@, =C@, C@, =C@, C@]										3.0
+[C@, =N]										1.0
+[C@, C]										3.0
+[=C@, sig4, sig2, C, Cl]										1.0
+[sig1, C@, =C@, O@, C@H@, sig2]										1.0
+[O, C, C, C, C, C, C, C, C, O]										1.0
+[=C, sig6]										1.0
+[=C@, O, sig3, O, sig6]										1.0
+[sig2, sig1, C@, C@, sig3]										1.0
+[N@, C]										3.0
+[=C@, sig5, =O]										2.0
+[O, sig6]										7.0
+[C@@]										7.0
+[C@@@, sig4]										1.0
+[C, C]										10.0
+[C@, O, C]										1.0
+[=C, O, sig6, sig6]										1.0
+[sig2, =C@, C@, =C@, sig3, sig5]										1.0
+[=C@, C, sig6]										1.0
+[C@, sig1, sig2]										1.0
+[C@@, sig1]										6.0
+[=C@, O, sig6]										2.0
+[C@, C, sig6]										1.0
+[=C@, sig2, O, C, C, C, C, C, C, C, C]										1.0
+[N, sig2, sig3]										1.0
+[sig3, C]										1.0
+[sig2, sig1, sig2, sig3]										1.0
+[O, sig7]										1.0
+[O, sig3, O, sig6, sig5]										1.0
+[C@]										74.0
+[=C@, O, C]										6.0
+[sig1, C@, =C@, O@, C@, sig2]										1.0
+[sig3, C@, sig2, sig2, sig2]										1.0
+[sig6, sig6, sig6]										5.0
+[=C@, C@, C@@H@, C@H@, sig11, sig1]										1.0
+[O, sig6, sig6]										2.0
+[=C@, C, C, =C]										1.0
+[sig1, C@, =C@, O@, =C@, C@]										1.0
+[=C@, C]										2.0
+[C@@, sig2]										1.0
+[C@, =C@, N@, =C@, sig2]										1.0
+[sig1, =C@, C@, =C@, O@]										1.0
+[C, C, O, sig2, C, C, C, C, sig2, O, C, sig5, C, C]										1.0
+[P, sig1, sig2]										1.0
+[N, C]										2.0
+[O@, C@, =C@, sig2, C@, C@]										1.0
+[N]										1.0
+[S@, =O]										1.0
+[sig1, =C@, sig3, sig2, sig3, =C@]										1.0
+[C@@H, O]										1.0
+[C@, =C@, C@, sig2, C@, =C@]										3.0
+[sig1, =C@, C@, =C@, C@, sig5]										1.0
+[C@, sig5, sig5, sig5, sig6]										1.0
+[=C@, sig10, =O]										1.0
+[C@H@, O, sig6, sig6, sig6]										1.0
+[C@, sig3, O-]										1.0
+[C, C, C, C, C]										1.0
+[sig1, sig2, sig2, sig2, sig2, sig2]										2.0
+[sig1, sig2, =C@, sig3, =C@, C@]										1.0
+[C@, sig3, C]										3.0
+[sig1, C@, =C@, sig3, sig2, sig5]										1.0
+[=C@, =C@, C@, =C@, C@, =C@]										1.0
+[sig1, =C@, C@, =C@, C@, =C@]										10.0
+[C@, C, C]										1.0
+[O]										3.0
+[C@, sig2, sig2, C@, C@]										1.0
+[C@H, C, C]										1.0
+[C@H@, C]										2.0
+[sig5, sig6, sig6, sig6]										1.0
+[C@, sig3, C@, =C@, sig2, C@]										1.0
+[C@, sig5, sig7]										1.0
+[C@, O]										10.0
+[C, =C]										1.0
+[C, =C, sig6]										1.0
+[sig5, sig6]										1.0
+[sig2, sig6]										3.0
+[sig1, =C@, C@, =C@, C@, sig11]										1.0
+[N, C, O, C]										1.0
+[sig1, sig2, sig3, =C@, sig3, =C@]										1.0
+[C@, sig3, C@, =C@, C@, =C@]										1.0
+[O, C, sig2, sig5]										1.0
+[sig2, sig2, sig2, sig1, sig1]										1.0
+[C@, =O, C]										2.0
+[C@@, sig1, sig3]										1.0
+[=C@, Cl]										16.0
+[C@, =C@, sig2, =C@, sig2, =C@]										1.0
+[=C@, N, sig2, C]										1.0
+[sig2, C@, =C@, sig3, =C@, C@]										1.0
+[sig2, N@, sig4, N@, sig3, N@]										1.0
+[C@@@, =C@, C@, sig2, =C@, C@]										1.0
+[sig1, =C@, C@, sig4, C@, sig3]										1.0
+[sig1, =C@, N@, C@, =C@]										1.0
+[C@, O@, sig2, O@, C@, C@, C@]										1.0
+[C@, sig2, C@, =C@, =C@, C@]										1.0
+[C, N, sig5, sig2, =O]										1.0
+[C@, =C, sig6]										1.0
+[=C@, C@, =C@, C@, C@, C@]										1.0
+[sig1, sig2, sig2, sig2, sig2, O@]										1.0
+[S, sig1, sig1]										3.0
+[C@, C@, sig2, C@, C@, sig1]										4.0
+[sig1, sig2, C@, =C@, C@, =C@]										4.0
+[sig4, C]										1.0
+[C@@H@]										2.0
+[sig7]										1.0
+[C@, C@, sig2, sig2, O@, C@]										1.0
+[sig1, C@, C@, =C@, O@, C@@H@]										2.0
+[sig1, =C@, C@, =C@, C@, sig2]										1.0
+[=C@, =O]										1.0
+[=C@, O]										30.0
+[=C@, sig2, C]										1.0
+[sig6, sig6, sig6, sig6]										1.0
+[C@@, =C@, sig2, sig2, C@, =C@]										1.0
+[C, sig1, sig1]										7.0
+[N@, sig2, C@, =C@, sig2]										1.0
+[sig1, N@, sig2, N@, C@, =C@]										1.0
+[C@, sig1, sig1]										8.0
+[=C@, C@, =C@, C@, C@, =C@]										3.0
+[sig2, sig2, C@, sig2, sig1]										1.0
+[C@, sig2, C@, =C@, O@, C@]										2.0
+[sig1, C@, =C@, C@, C@]										1.0
+[C@, =C@, C@, =C@, =C@, C@]										4.0
+[O, sig2, N, C, C, sig5, sig6]										1.0
+[sig5, sig6, sig6]										5.0
+[=C@, C@, sig2, C@, C@, C@]										1.0
+[Cl, sig5, sig5, sig5]										1.0
+[C@, =N, =//N, sig6, sig6]										1.0
+[sig2, O, C]										1.0
+[C@, sig1]										7.0
+[C@H@, O, sig6]										1.0
+[sig1, sig3, C@, sig4, C@, =C@]										1.0
+[C@@@, sig6]										1.0
+[C@@H, C]										1.0
